@@ -550,8 +550,8 @@ class keycodes_v6:
         "MI_BENDU": 0x718F,
 
         "QK_BOOT": 0x7C00,
-        "QK_REBOOT": = 0x7C01,
-        "QK_CLEAR_EEPROM": = 0x7C03,
+        "QK_REBOOT": 0x7C01,
+        "QK_CLEAR_EEPROM": 0x7C03,
 
         "FN_MO13": 0x7C77,
         "FN_MO23": 0x7C78,
