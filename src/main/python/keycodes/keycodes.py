@@ -331,7 +331,7 @@ RESET_KEYCODE = "QK_BOOT"
 KEYCODES_BOOT = [
     K("QK_BOOT", "Boot-\nloader", "Put the keyboard into bootloader mode for flashing"),
     K("QK_REBOOT", "Reboot", "Resets the keyboard. Does not load the bootloader"),
-    K("QK_CLEAR_EEPROM", "Clear\nEEEPROM", "Reinitializes the keyboard's EEPROM (persistent memory)", alias=["EE_CLR"]),
+    K("QK_CLEAR_EEPROM", "Clear\nEEPROM", "Reinitializes the keyboard's EEPROM (persistent memory)", alias=["EE_CLR"]),
 ]
 
 KEYCODES_MODIFIERS = [
